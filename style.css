@@ -13,3 +13,13 @@ License URI:    https://themeforest.net/licenses/standard
 
 /* Your CSS code goes here
 -------------------------------------- */
+
+/* The adjustments of this file is not working, the code here is for backup.
+The cusomization is implemented in the customizer. */
+.header-3 .banner-inner, .header-6 .banner-inner {
+    padding: 20px 0 10px 0;
+}
+
+.woocommerce-account:not(.logged-in) .entry-content .woocommerce{
+	max-width: 900px;
+}
